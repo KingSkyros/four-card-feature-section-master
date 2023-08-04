@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+*{
+    margin: 0; 
+    padding: 0;
+} 
+
+body{
+    font-family: 'poppins', cursive;   
+    background-color: whitesmoke;
+}  
+
+main{
+    /* background-color: aqua;  */
+    justify-content: center; 
+    max-width: 60rem;  
+    margin-left: 15em;   
+} 
+
+.two{
+    max-width: 22rem;
+    border-top: hsl(0, 78%, 62%) solid ; 
+    padding: 2vh; 
+    background-color: hsl(0, 0%, 98%); 
+    box-shadow: black 2px 3px solid;
+} 
+
+.three{ 
+    max-width: 22rem;
+    border-top: hsl(212, 86%, 64%) solid; 
+    padding: 2vh; 
+    background-color: hsl(0, 0%, 98%); 
+    box-shadow: black 2px 3px solid;
+} 
+
+.four{ 
+    max-width: 22rem;
+    border-top: solid hsl(34, 97%, 64%);
+    padding: 2vh; 
+    background-color: hsl(0, 0%, 98%); 
+    box-shadow: black 2px 3px solid;
+} 
+
+.five{ 
+    max-width: 22rem;
+    border-top: solid hsl(180, 62%, 55%); 
+    padding: 2vh; 
+    background-color: hsl(0, 0%, 98%); 
+    box-shadow: black 2px 3px solid;
+} 
+
+h2 , p{
+    color: hsl(229, 6%, 66%);
+} 
+
+h2, .start , .starter-2{
+    text-align: center;
+} 
+
+.starter-2{
+    max-width: 41em; 
+    margin-left: 9em; 
+    padding: 10px;
+} 
+
+.start{
+    font-weight: 600;
+} 
+
+p{
+    font-weight: 200;
+} 
+
+h2 ,h1{
+    font-weight: 400;
+} 
+
+img{
+    margin-left: 18em;
+}
