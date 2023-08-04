@@ -7,14 +7,14 @@
 
 body{
     font-family: 'poppins', cursive;   
-    background-color: whitesmoke;
+    background-color: whitesmoke; 
 }  
 
 main{
     /* background-color: aqua;  */
     justify-content: center; 
     max-width: 60rem;  
-    margin-left: 15em;   
+    margin-left: 15em;    
 } 
 
 .two{
@@ -22,7 +22,9 @@ main{
     border-top: hsl(0, 78%, 62%) solid ; 
     padding: 2vh; 
     background-color: hsl(0, 0%, 98%); 
-    box-shadow: black 2px 3px solid;
+    box-shadow: black 2px 3px solid;  
+    margin-left: 17em; 
+    margin-top: 5em;
 } 
 
 .three{ 
@@ -30,7 +32,9 @@ main{
     border-top: hsl(212, 86%, 64%) solid; 
     padding: 2vh; 
     background-color: hsl(0, 0%, 98%); 
-    box-shadow: black 2px 3px solid;
+    box-shadow: black 2px 3px solid; 
+    margin-top: 2em; 
+    margin-left: 35rem;
 } 
 
 .four{ 
@@ -38,7 +42,7 @@ main{
     border-top: solid hsl(34, 97%, 64%);
     padding: 2vh; 
     background-color: hsl(0, 0%, 98%); 
-    box-shadow: black 2px 3px solid;
+    box-shadow: black 2px 3px solid; 
 } 
 
 .five{ 
@@ -46,7 +50,9 @@ main{
     border-top: solid hsl(180, 62%, 55%); 
     padding: 2vh; 
     background-color: hsl(0, 0%, 98%); 
-    box-shadow: black 2px 3px solid;
+    box-shadow: black 2px 3px solid; 
+    margin-left: 17em; 
+    margin-top: 2em;
 } 
 
 h2 , p{
@@ -54,7 +60,8 @@ h2 , p{
 } 
 
 h2, .start , .starter-2{
-    text-align: center;
+    text-align: center; 
+    margin-top: 2vh;
 } 
 
 .starter-2{
