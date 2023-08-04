@@ -34,7 +34,7 @@ main{
     background-color: hsl(0, 0%, 98%); 
     box-shadow: black 2px 3px solid; 
     margin-top: 2em; 
-    margin-left: 35rem;
+    margin-left: 33rem;
 } 
 
 .four{ 
@@ -42,7 +42,9 @@ main{
     border-top: solid hsl(34, 97%, 64%);
     padding: 2vh; 
     background-color: hsl(0, 0%, 98%); 
-    box-shadow: black 2px 3px solid; 
+    box-shadow: black 2px 3px solid;  
+    position: absolute;  
+    top: 31rem;
 } 
 
 .five{ 
